@@ -1,4 +1,4 @@
-# Hi, I am Björn, welcome to my Page👋🏃
+# Hi, I am Björn, Welcome to my Page👋🏃
 
 <div align="center">
 <img src="https://github.com/Bjoern-Jentschke/Bjoern-Jentschke/assets/155737121/1712c616-3a87-433b-bc1b-1a6a2cee3d03" height="auto" width="25%">
