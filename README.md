@@ -1,26 +1,19 @@
-# Hi there welcome to my Page👋
+# Hi, I am Björn, welcome to my Page👋🏃
+## Soon: Software Engineer (in learning progress📚)
 
-I am currently starting to learn in a Web Development Bootcamp the basics of software engineering. Today added some knowledge about git, github and markdown.
+:fire:I am currently starting to learn the basics of software engineering in a Web Development Bootcamp. Currently adding some knowledge about git, github and markdown.
 
 <div align="center">
-<img src="[https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge](https://blog.testproject.io/wp-content/uploads/2021/08/article-of-P1P-2_-002.png)"/>
-</div>
+<img src="https://imageio.forbes.com/blogs-images/forbestechcouncil/files/2019/01/canva-photo-editor-8-7.jpg?format=jpg&width=1440" alt="Code Picture" width=100% height="200"/>
 
-Hobbies:
-- Running
-- Learning Spanish
-- Playing Guitar
-<!--
-**Bjoern-Jentschke/Bjoern-Jentschke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my **readme** page
+- 🌱 I’m currently learning all the basics about _web development_
+- ⚡ Hobbies:
+  - running
+  - football
+  - learning spanish
+
