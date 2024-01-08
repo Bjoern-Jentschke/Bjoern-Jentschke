@@ -1,7 +1,13 @@
 # Hi there welcome to my Page👋
 
 I am currently starting to learn in a Web Development Bootcamp the basics of software engineering.
+
 ![Picture of me]([https://tsg-leichtathletik-rasenkraftsport.heidenheim.com/index.php/2023/10/05/1-oktober-2023-koeln-marathon/#iLightbox[gallery_image_1]/0](https://tsg-leichtathletik-rasenkraftsport.heidenheim.com/wp-content/uploads/2023/10/Bjoern_Jentschke.jpg))
+
+Hobbies:
+- list item Running
+- list item Learning Spanish
+- list item Playing Guitar
 <!--
 **Bjoern-Jentschke/Bjoern-Jentschke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
