@@ -1,8 +1,10 @@
 # Hi there welcome to my Page👋
 
-I am currently starting to learn in a Web Development Bootcamp the basics of software engineering.
+I am currently starting to learn in a Web Development Bootcamp the basics of software engineering. Today added some knowledge about git, github and markdown.
 
-![Picture of me]([https://tsg-leichtathletik-rasenkraftsport.heidenheim.com/index.php/2023/10/05/1-oktober-2023-koeln-marathon/#iLightbox[gallery_image_1]/0](https://tsg-leichtathletik-rasenkraftsport.heidenheim.com/wp-content/uploads/2023/10/Bjoern_Jentschke.jpg))
+<div align="center">
+<img src="[https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge](https://blog.testproject.io/wp-content/uploads/2021/08/article-of-P1P-2_-002.png)"/>
+</div>
 
 Hobbies:
 - Running
