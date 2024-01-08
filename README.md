@@ -22,6 +22,5 @@
   - 🗣️practising spanish
   - 🎸playing the guitar
 
+Let's connect! You can write me on [LinkedIn](www.linkedin.com/in/björn-jentschke):v:
 
-
-## Let's connect!
