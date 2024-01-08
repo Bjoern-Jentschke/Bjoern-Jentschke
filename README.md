@@ -1,5 +1,6 @@
 # Hi there welcome to my Page👋
 
+I am currently starting to learn in a Web Development Bootcamp the basics of software engineering.
 <!--
 **Bjoern-Jentschke/Bjoern-Jentschke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
